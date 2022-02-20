@@ -1,4 +1,4 @@
 # DL@UWr
-Materials for my Deep Learning and Neural Networks course at [University of Wroclaw](https://ii.uni.wroc.pl/)
+Materials for my Neural Networks course at [University of Wroclaw](https://ii.uni.wroc.pl/)
 
-Please note: this repo hosts materials for the continuation of my [Machine Leaning](https://github.com/janchorowski/ml_uwr) course. For my old Deep Learning materials see [this repo](https://github.com/janchorowski/nn_assignments).
+Please note: this repo hosts materials for the continuation of prof. Jan Chorowski's [Machine Leaning](https://github.com/janchorowski/ml_uwr) and [NN & DL](https://github.com/janchorowski/dl_uwr) coursse.
